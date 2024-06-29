@@ -1,0 +1,106 @@
+
+.maindiv{
+    background-color: rgb(8, 233, 195);
+    border-radius: 20px;
+    width: 90%;
+    height: 95%;
+    margin-left: 60px;
+    
+    
+   
+
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px black;
+}
+.profile{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color:orange;
+  
+}
+.pinky{
+    margin-left: 20px;
+    font-size: 30px;
+    text-shadow: 5px 5px 5px red;
+  
+}
+
+.main{
+    padding: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: chartreuse;
+    border-radius: 5px;
+    margin: 5px;
+    display:inline-block;
+    box-shadow: 2px 2px 2px black;
+}
+.right{
+    padding: 20px;
+    width: 20px;
+    height: 20px;
+   background-color: chartreuse;
+    border-radius: 5px;
+    margin: 3px;
+
+    display:inline-block;
+    box-shadow: 2px 2px 2px black;
+   margin-left: 102%;
+
+   
+}
+.day{
+    padding: 5px;
+    background-color:white;
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin-left: 30%;
+    
+
+}
+.howare{
+    padding: 20px;
+    width: 150px;
+    height: 15px;
+   background-color: chartreuse;
+    border-radius: 5px;
+    margin: 3px;
+    display:inline-block;
+    box-shadow: 2px 2px 2px black;
+
+}
+.wtabout{
+    padding: 20px;
+    width: 150px;
+    height: 15px;
+   background-color: chartreuse;
+    border-radius: 5px;
+    margin-left: 81%;
+    margin-top: 5px;
+    display:inline-block;
+    box-shadow: 2px 2px 2px black;
+
+}
+.reply{
+    padding: 20px;
+    width: 50px;
+    height: 15px;
+   background-color: chartreuse;
+    border-radius: 5px;
+    margin-left: 90%;
+    margin-top: 5px;
+    display:inline-block;
+    box-shadow: 2px 2px 2px black;
+}
+
